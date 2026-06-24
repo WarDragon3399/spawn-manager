@@ -7,14 +7,14 @@ After enabel step is like
 1. Add SpwanManager Node in scene you can add like normal Node and can search in search bar
 2. one you add it in inspector you can see Tilemap layer you need to add any tliemaplayer node from scene even emetpy also work just be sure of ordering of layers
 3. Spawn Groprs you need to array of it that contain 
-	A. Size noramlly if your items not spwan like set or class example, battle items, weapons else just use 1
-	B. After that click on dropdown menu icon between folder and delete icon you can see SpawnGroup add it
-	C. Once it Added You can see empty become SpwanGroup click on name you see whloe new set of option
-		a. Group Name : name of Group give whatever you want
-		b. Cells : Array of vecotrs mean array of cells numbers you want spawn and cordinate or location of cell where item spawn
-					example : if you want spwan on 10 location cell size is 10 
-								after that you get like o and x and y  you need enter X and Y value of cell location 
-									exaple if cell location (15,-1) X = 15 and Y -1 
+		A. Size noramlly if your items not spwan like set or class example, battle items, weapons else just use 1
+		B. After that click on dropdown menu icon between folder and delete icon you can see SpawnGroup add it
+		C. Once it Added You can see empty become SpwanGroup click on name you see whloe new set of option
+			a. Group Name : name of Group give whatever you want
+			b. Cells : Array of vecotrs mean array of cells numbers you want spawn and cordinate or location of cell where item spawn
+						example : if you want spwan on 10 location cell size is 10 
+									after that you get like o and x and y  you need enter X and Y value of cell location 
+									exapmle : if cell location (15,-1) X = 15 and Y -1 
 									you get cell location if you sekect tilemap layer and move your arrow arround 2D scene view in bottom left of view you see this value
 	D. Next is Spawn Count this is number of cells of selected cell you want to spawn
 				example : from 10 cells location you want like only 5 random cell spwan item input value will be 5
