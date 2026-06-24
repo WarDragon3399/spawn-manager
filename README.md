@@ -1,4 +1,4 @@
-Written by Wardragon3399 initial purpose was Commfy summer game jam 2026 game name Summer of Sandcasstles 
+Written by Wardragon3399(Parthkumar Rathod) initial purpose was Commfy summer game jam 2026 game name Summer of Sandcasstles 
 
 This Plugin is use for spawm items in tilemap(square)
 to use it you just need to install plugin in and enable it in project settings.
