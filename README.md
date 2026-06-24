@@ -16,7 +16,7 @@ After enabel step is like
 						 after that you get like o and x and y  you need enter X and Y value of cell location 
 						 exapmle : if cell location (15,-1) X = 15 and Y -1 
 						 you get cell location if you sekect tilemap layer and move your arrow arround 2D scene view in bottom left of view you see this value
-	D. Next is Spawn Count this is number of cells of selected cell you want to spawn
+	4. Next is Spawn Count this is number of cells of selected cell you want to spawn
 				example : from 10 cells location you want like only 5 random cell spwan item input value will be 5
 				for who want to spwan all cells of above selected cells keep this Spwan Count value same as Cells Size like if cells size is 10 here also 10
 	F: Item Array Contain size mean total number of items in list you want 
