@@ -3,7 +3,7 @@ Written by Wardragon3399 initial purpose was Commfy summer game jam 2026 game na
 This Plugin is use for spawm items in tilemap(square)
 to use it you just need to install plugin in and enable it in project settings.
 
-Once enabel step is like 
+After enabel step is like 
 1. Add SpwanManager Node in scene you can add like normal Node and can search in search bar
 2. one you add it in inspector you can see Tilemap layer you need to add any tliemaplayer node from scene even emetpy also work just be sure of ordering of layers
 3. Spawn Groprs you need to array of it that contain 
